@@ -1,6 +1,6 @@
 package src;
 
-public interface Hand {
+public interface Hand2 {
     /**　
 
      compare：手の強弱を比較する。
