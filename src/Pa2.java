@@ -1,7 +1,7 @@
 package src;
 
-public class Gu implements Hand{
-    private String HAND_NAME = "グー";
+public class Pa2 extends Hand {
+    private String HAND_NAME = "パー";
 
 
 
@@ -34,3 +34,4 @@ public class Gu implements Hand{
     }
 
 }
+
