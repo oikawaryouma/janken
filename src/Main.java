@@ -57,6 +57,10 @@ class Main {
 
 abstract class Hand {
     public abstract String getHandName();
+
+    public int compare(Hand hand) {
+        return 0;
+    }
 }
 
 class Gu extends Hand {
